@@ -1,5 +1,13 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
+[submodule "PPbigdata"]
+	path = PPbigdata
+	url = https://github.com/cran/PPbigdata
+[submodule "datanugget"]
+	path = datanugget
+	url = https://github.com/cran/datanugget
+[submodule "twopartm"]
+	path = twopartm
+	url = https://github.com/cran/twopartm
